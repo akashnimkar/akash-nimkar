@@ -1,2 +1,2 @@
 # akash-nimkar
-akash nimkar dirst repository
+akash nimkar first repository
